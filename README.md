@@ -1,4 +1,4 @@
-Here's the code too
+Here's the code, I used a few methods, looks cleaner for me.
 
 
 
